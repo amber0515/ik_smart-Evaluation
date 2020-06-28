@@ -1,0 +1,582 @@
+num: 0
+goldTotalCount: 631, rightCount: 327, errorCount: 113
+recallScore: 0.5182250396196514, precisionScore: 0.7431818181818182, fScore: 0.6106442577030813, errorScore: 0.179080824088748
+num: 1
+goldTotalCount: 225, rightCount: 112, errorCount: 36
+recallScore: 0.49777777777777776, precisionScore: 0.7567567567567568, fScore: 0.6005361930294907, errorScore: 0.16
+num: 2
+goldTotalCount: 597, rightCount: 337, errorCount: 119
+recallScore: 0.5644891122278057, precisionScore: 0.7390350877192983, fScore: 0.6400759734093068, errorScore: 0.19932998324958123
+num: 3
+goldTotalCount: 512, rightCount: 288, errorCount: 83
+recallScore: 0.5625, precisionScore: 0.7762803234501348, fScore: 0.652321630804077, errorScore: 0.162109375
+num: 4
+goldTotalCount: 278, rightCount: 174, errorCount: 32
+recallScore: 0.6258992805755396, precisionScore: 0.8446601941747572, fScore: 0.7190082644628099, errorScore: 0.11510791366906475
+num: 5
+goldTotalCount: 484, rightCount: 264, errorCount: 79
+recallScore: 0.5454545454545454, precisionScore: 0.7696793002915452, fScore: 0.6384522370012091, errorScore: 0.16322314049586778
+num: 6
+goldTotalCount: 39, rightCount: 23, errorCount: 9
+recallScore: 0.5897435897435898, precisionScore: 0.71875, fScore: 0.6478873239436619, errorScore: 0.23076923076923078
+num: 7
+goldTotalCount: 262, rightCount: 143, errorCount: 45
+recallScore: 0.5458015267175572, precisionScore: 0.7606382978723404, fScore: 0.6355555555555555, errorScore: 0.1717557251908397
+num: 8
+goldTotalCount: 645, rightCount: 362, errorCount: 106
+recallScore: 0.5612403100775194, precisionScore: 0.7735042735042735, fScore: 0.6504941599281222, errorScore: 0.16434108527131783
+num: 9
+goldTotalCount: 1741, rightCount: 882, errorCount: 316
+recallScore: 0.5066053991958644, precisionScore: 0.7362270450751253, fScore: 0.6002041510717931, errorScore: 0.18150488225157954
+num: 10
+goldTotalCount: 412, rightCount: 242, errorCount: 78
+recallScore: 0.587378640776699, precisionScore: 0.75625, fScore: 0.6612021857923497, errorScore: 0.18932038834951456
+num: 11
+goldTotalCount: 658, rightCount: 347, errorCount: 116
+recallScore: 0.5273556231003039, precisionScore: 0.7494600431965442, fScore: 0.6190900981266726, errorScore: 0.1762917933130699
+num: 12
+goldTotalCount: 411, rightCount: 198, errorCount: 83
+recallScore: 0.48175182481751827, precisionScore: 0.7046263345195729, fScore: 0.5722543352601156, errorScore: 0.20194647201946472
+num: 13
+goldTotalCount: 899, rightCount: 575, errorCount: 138
+recallScore: 0.639599555061179, precisionScore: 0.8064516129032258, fScore: 0.7133995037220844, errorScore: 0.15350389321468297
+num: 14
+goldTotalCount: 519, rightCount: 292, errorCount: 129
+recallScore: 0.5626204238921002, precisionScore: 0.6935866983372921, fScore: 0.621276595744681, errorScore: 0.24855491329479767
+num: 15
+goldTotalCount: 833, rightCount: 504, errorCount: 130
+recallScore: 0.6050420168067226, precisionScore: 0.7949526813880127, fScore: 0.6871165644171779, errorScore: 0.15606242496998798
+num: 16
+goldTotalCount: 321, rightCount: 207, errorCount: 66
+recallScore: 0.6448598130841121, precisionScore: 0.7582417582417582, fScore: 0.696969696969697, errorScore: 0.205607476635514
+num: 17
+goldTotalCount: 310, rightCount: 192, errorCount: 52
+recallScore: 0.6193548387096774, precisionScore: 0.7868852459016393, fScore: 0.6931407942238267, errorScore: 0.16774193548387098
+num: 18
+goldTotalCount: 293, rightCount: 180, errorCount: 75
+recallScore: 0.6143344709897611, precisionScore: 0.7058823529411765, fScore: 0.6569343065693432, errorScore: 0.25597269624573377
+num: 19
+goldTotalCount: 807, rightCount: 418, errorCount: 155
+recallScore: 0.5179677819083024, precisionScore: 0.7294938917975567, fScore: 0.6057971014492755, errorScore: 0.19206939281288724
+num: 20
+goldTotalCount: 347, rightCount: 218, errorCount: 75
+recallScore: 0.6282420749279539, precisionScore: 0.7440273037542662, fScore: 0.68125, errorScore: 0.21613832853025935
+num: 21
+goldTotalCount: 572, rightCount: 310, errorCount: 114
+recallScore: 0.541958041958042, precisionScore: 0.7311320754716981, fScore: 0.6224899598393575, errorScore: 0.1993006993006993
+num: 22
+goldTotalCount: 124, rightCount: 58, errorCount: 25
+recallScore: 0.46774193548387094, precisionScore: 0.6987951807228916, fScore: 0.5603864734299517, errorScore: 0.20161290322580644
+num: 23
+goldTotalCount: 180, rightCount: 98, errorCount: 30
+recallScore: 0.5444444444444444, precisionScore: 0.765625, fScore: 0.6363636363636365, errorScore: 0.16666666666666666
+num: 24
+goldTotalCount: 227, rightCount: 117, errorCount: 26
+recallScore: 0.5154185022026432, precisionScore: 0.8181818181818182, fScore: 0.6324324324324325, errorScore: 0.1145374449339207
+num: 25
+goldTotalCount: 297, rightCount: 189, errorCount: 40
+recallScore: 0.6363636363636364, precisionScore: 0.8253275109170306, fScore: 0.7186311787072245, errorScore: 0.13468013468013468
+num: 26
+goldTotalCount: 317, rightCount: 203, errorCount: 48
+recallScore: 0.6403785488958991, precisionScore: 0.8087649402390438, fScore: 0.7147887323943661, errorScore: 0.15141955835962145
+num: 27
+goldTotalCount: 258, rightCount: 153, errorCount: 48
+recallScore: 0.5930232558139535, precisionScore: 0.7611940298507462, fScore: 0.6666666666666667, errorScore: 0.18604651162790697
+num: 28
+goldTotalCount: 257, rightCount: 155, errorCount: 37
+recallScore: 0.603112840466926, precisionScore: 0.8072916666666666, fScore: 0.6904231625835189, errorScore: 0.14396887159533073
+num: 29
+goldTotalCount: 229, rightCount: 143, errorCount: 33
+recallScore: 0.6244541484716157, precisionScore: 0.8125, fScore: 0.7061728395061729, errorScore: 0.14410480349344978
+num: 30
+goldTotalCount: 282, rightCount: 167, errorCount: 52
+recallScore: 0.5921985815602837, precisionScore: 0.7625570776255708, fScore: 0.6666666666666667, errorScore: 0.18439716312056736
+num: 31
+goldTotalCount: 243, rightCount: 153, errorCount: 35
+recallScore: 0.6296296296296297, precisionScore: 0.8138297872340425, fScore: 0.7099767981438515, errorScore: 0.1440329218106996
+num: 32
+goldTotalCount: 236, rightCount: 144, errorCount: 36
+recallScore: 0.6101694915254238, precisionScore: 0.8, fScore: 0.6923076923076924, errorScore: 0.15254237288135594
+num: 33
+goldTotalCount: 153, rightCount: 67, errorCount: 36
+recallScore: 0.43790849673202614, precisionScore: 0.6504854368932039, fScore: 0.5234375, errorScore: 0.23529411764705882
+num: 34
+goldTotalCount: 163, rightCount: 97, errorCount: 21
+recallScore: 0.5950920245398773, precisionScore: 0.8220338983050848, fScore: 0.690391459074733, errorScore: 0.12883435582822086
+num: 35
+goldTotalCount: 189, rightCount: 131, errorCount: 21
+recallScore: 0.6931216931216931, precisionScore: 0.8618421052631579, fScore: 0.7683284457478006, errorScore: 0.1111111111111111
+num: 36
+goldTotalCount: 272, rightCount: 158, errorCount: 47
+recallScore: 0.5808823529411765, precisionScore: 0.7707317073170732, fScore: 0.6624737945492664, errorScore: 0.17279411764705882
+num: 37
+goldTotalCount: 178, rightCount: 76, errorCount: 33
+recallScore: 0.42696629213483145, precisionScore: 0.6972477064220184, fScore: 0.529616724738676, errorScore: 0.1853932584269663
+num: 38
+goldTotalCount: 360, rightCount: 162, errorCount: 58
+recallScore: 0.45, precisionScore: 0.7363636363636363, fScore: 0.5586206896551724, errorScore: 0.16111111111111112
+num: 39
+goldTotalCount: 575, rightCount: 331, errorCount: 100
+recallScore: 0.5756521739130435, precisionScore: 0.7679814385150812, fScore: 0.658051689860835, errorScore: 0.17391304347826086
+num: 40
+goldTotalCount: 356, rightCount: 183, errorCount: 59
+recallScore: 0.5140449438202247, precisionScore: 0.756198347107438, fScore: 0.6120401337792643, errorScore: 0.16573033707865167
+num: 41
+goldTotalCount: 396, rightCount: 211, errorCount: 76
+recallScore: 0.5328282828282829, precisionScore: 0.735191637630662, fScore: 0.6178623718887263, errorScore: 0.1919191919191919
+num: 42
+goldTotalCount: 434, rightCount: 208, errorCount: 77
+recallScore: 0.4792626728110599, precisionScore: 0.7298245614035088, fScore: 0.5785813630041725, errorScore: 0.1774193548387097
+num: 43
+goldTotalCount: 336, rightCount: 182, errorCount: 59
+recallScore: 0.5416666666666666, precisionScore: 0.7551867219917012, fScore: 0.6308492201039861, errorScore: 0.17559523809523808
+num: 44
+goldTotalCount: 266, rightCount: 154, errorCount: 59
+recallScore: 0.5789473684210527, precisionScore: 0.7230046948356808, fScore: 0.6430062630480168, errorScore: 0.22180451127819548
+num: 45
+goldTotalCount: 596, rightCount: 369, errorCount: 78
+recallScore: 0.6191275167785235, precisionScore: 0.825503355704698, fScore: 0.7075743048897412, errorScore: 0.13087248322147652
+num: 46
+goldTotalCount: 899, rightCount: 492, errorCount: 180
+recallScore: 0.5472747497219133, precisionScore: 0.7321428571428571, fScore: 0.6263526416295353, errorScore: 0.20022246941045607
+num: 47
+goldTotalCount: 620, rightCount: 361, errorCount: 103
+recallScore: 0.582258064516129, precisionScore: 0.7780172413793104, fScore: 0.6660516605166052, errorScore: 0.16612903225806452
+num: 48
+goldTotalCount: 525, rightCount: 302, errorCount: 100
+recallScore: 0.5752380952380952, precisionScore: 0.7512437810945274, fScore: 0.651564185544768, errorScore: 0.19047619047619047
+num: 49
+goldTotalCount: 732, rightCount: 328, errorCount: 145
+recallScore: 0.44808743169398907, precisionScore: 0.693446088794926, fScore: 0.5443983402489627, errorScore: 0.19808743169398907
+num: 50
+goldTotalCount: 589, rightCount: 192, errorCount: 150
+recallScore: 0.32597623089983024, precisionScore: 0.5614035087719298, fScore: 0.41245972073039744, errorScore: 0.2546689303904924
+num: 51
+goldTotalCount: 811, rightCount: 398, errorCount: 149
+recallScore: 0.4907521578298397, precisionScore: 0.7276051188299817, fScore: 0.5861561119293077, errorScore: 0.18372379778051787
+num: 52
+goldTotalCount: 924, rightCount: 437, errorCount: 173
+recallScore: 0.47294372294372294, precisionScore: 0.7163934426229508, fScore: 0.5697522816166884, errorScore: 0.18722943722943722
+num: 53
+goldTotalCount: 719, rightCount: 412, errorCount: 117
+recallScore: 0.5730180806675939, precisionScore: 0.77882797731569, fScore: 0.6602564102564102, errorScore: 0.1627260083449235
+num: 54
+goldTotalCount: 674, rightCount: 358, errorCount: 134
+recallScore: 0.5311572700296736, precisionScore: 0.7276422764227642, fScore: 0.614065180102916, errorScore: 0.19881305637982197
+num: 55
+goldTotalCount: 575, rightCount: 364, errorCount: 81
+recallScore: 0.6330434782608696, precisionScore: 0.8179775280898877, fScore: 0.7137254901960786, errorScore: 0.1408695652173913
+num: 56
+goldTotalCount: 656, rightCount: 370, errorCount: 101
+recallScore: 0.5640243902439024, precisionScore: 0.7855626326963907, fScore: 0.6566104702750665, errorScore: 0.15396341463414634
+num: 57
+goldTotalCount: 438, rightCount: 249, errorCount: 77
+recallScore: 0.5684931506849316, precisionScore: 0.7638036809815951, fScore: 0.6518324607329844, errorScore: 0.17579908675799086
+num: 58
+goldTotalCount: 611, rightCount: 379, errorCount: 95
+recallScore: 0.6202945990180033, precisionScore: 0.79957805907173, fScore: 0.6986175115207375, errorScore: 0.15548281505728315
+num: 59
+goldTotalCount: 299, rightCount: 165, errorCount: 50
+recallScore: 0.5518394648829431, precisionScore: 0.7674418604651163, fScore: 0.642023346303502, errorScore: 0.16722408026755853
+num: 60
+goldTotalCount: 484, rightCount: 312, errorCount: 64
+recallScore: 0.6446280991735537, precisionScore: 0.8297872340425532, fScore: 0.7255813953488373, errorScore: 0.1322314049586777
+num: 61
+goldTotalCount: 742, rightCount: 444, errorCount: 132
+recallScore: 0.5983827493261455, precisionScore: 0.7708333333333334, fScore: 0.6737481031866464, errorScore: 0.1778975741239892
+num: 62
+goldTotalCount: 407, rightCount: 258, errorCount: 60
+recallScore: 0.6339066339066339, precisionScore: 0.8113207547169812, fScore: 0.7117241379310345, errorScore: 0.14742014742014742
+num: 63
+goldTotalCount: 333, rightCount: 236, errorCount: 54
+recallScore: 0.7087087087087087, precisionScore: 0.8137931034482758, fScore: 0.7576243980738364, errorScore: 0.16216216216216217
+num: 64
+goldTotalCount: 833, rightCount: 497, errorCount: 152
+recallScore: 0.5966386554621849, precisionScore: 0.765793528505393, fScore: 0.6707152496626182, errorScore: 0.18247298919567828
+num: 65
+goldTotalCount: 399, rightCount: 235, errorCount: 65
+recallScore: 0.5889724310776943, precisionScore: 0.7833333333333333, fScore: 0.6723891273247495, errorScore: 0.16290726817042606
+num: 66
+goldTotalCount: 614, rightCount: 358, errorCount: 103
+recallScore: 0.5830618892508144, precisionScore: 0.7765726681127982, fScore: 0.666046511627907, errorScore: 0.16775244299674266
+num: 67
+goldTotalCount: 1170, rightCount: 608, errorCount: 244
+recallScore: 0.5196581196581197, precisionScore: 0.7136150234741784, fScore: 0.6013847675568744, errorScore: 0.20854700854700856
+num: 68
+goldTotalCount: 442, rightCount: 242, errorCount: 82
+recallScore: 0.5475113122171946, precisionScore: 0.7469135802469136, fScore: 0.6318537859007833, errorScore: 0.18552036199095023
+num: 69
+goldTotalCount: 533, rightCount: 283, errorCount: 93
+recallScore: 0.5309568480300187, precisionScore: 0.7526595744680851, fScore: 0.6226622662266226, errorScore: 0.17448405253283303
+num: 70
+goldTotalCount: 74, rightCount: 30, errorCount: 14
+recallScore: 0.40540540540540543, precisionScore: 0.6818181818181818, fScore: 0.5084745762711864, errorScore: 0.1891891891891892
+num: 71
+goldTotalCount: 75, rightCount: 25, errorCount: 20
+recallScore: 0.3333333333333333, precisionScore: 0.5555555555555556, fScore: 0.4166666666666667, errorScore: 0.26666666666666666
+num: 72
+goldTotalCount: 77, rightCount: 37, errorCount: 6
+recallScore: 0.4805194805194805, precisionScore: 0.8604651162790697, fScore: 0.6166666666666667, errorScore: 0.07792207792207792
+num: 73
+goldTotalCount: 77, rightCount: 28, errorCount: 14
+recallScore: 0.36363636363636365, precisionScore: 0.6666666666666666, fScore: 0.4705882352941177, errorScore: 0.18181818181818182
+num: 74
+goldTotalCount: 82, rightCount: 37, errorCount: 11
+recallScore: 0.45121951219512196, precisionScore: 0.7708333333333334, fScore: 0.5692307692307692, errorScore: 0.13414634146341464
+num: 75
+goldTotalCount: 128, rightCount: 73, errorCount: 17
+recallScore: 0.5703125, precisionScore: 0.8111111111111111, fScore: 0.6697247706422018, errorScore: 0.1328125
+num: 76
+goldTotalCount: 640, rightCount: 314, errorCount: 117
+recallScore: 0.490625, precisionScore: 0.728538283062645, fScore: 0.5863678804855276, errorScore: 0.1828125
+num: 77
+goldTotalCount: 575, rightCount: 296, errorCount: 113
+recallScore: 0.5147826086956522, precisionScore: 0.7237163814180929, fScore: 0.6016260162601627, errorScore: 0.19652173913043477
+num: 78
+goldTotalCount: 434, rightCount: 231, errorCount: 111
+recallScore: 0.532258064516129, precisionScore: 0.6754385964912281, fScore: 0.5953608247422679, errorScore: 0.2557603686635945
+num: 79
+goldTotalCount: 497, rightCount: 299, errorCount: 74
+recallScore: 0.6016096579476862, precisionScore: 0.8016085790884718, fScore: 0.6873563218390805, errorScore: 0.1488933601609658
+num: 80
+goldTotalCount: 653, rightCount: 398, errorCount: 111
+recallScore: 0.6094946401225115, precisionScore: 0.7819253438113949, fScore: 0.6850258175559382, errorScore: 0.16998468606431852
+num: 81
+goldTotalCount: 562, rightCount: 327, errorCount: 92
+recallScore: 0.5818505338078291, precisionScore: 0.7804295942720764, fScore: 0.6666666666666666, errorScore: 0.16370106761565836
+num: 82
+goldTotalCount: 237, rightCount: 149, errorCount: 49
+recallScore: 0.6286919831223629, precisionScore: 0.7525252525252525, fScore: 0.6850574712643678, errorScore: 0.20675105485232068
+num: 83
+goldTotalCount: 403, rightCount: 219, errorCount: 72
+recallScore: 0.543424317617866, precisionScore: 0.7525773195876289, fScore: 0.6311239193083573, errorScore: 0.17866004962779156
+num: 84
+goldTotalCount: 525, rightCount: 297, errorCount: 84
+recallScore: 0.5657142857142857, precisionScore: 0.7795275590551181, fScore: 0.6556291390728477, errorScore: 0.16
+num: 85
+goldTotalCount: 549, rightCount: 322, errorCount: 93
+recallScore: 0.5865209471766849, precisionScore: 0.7759036144578313, fScore: 0.6680497925311204, errorScore: 0.16939890710382513
+num: 86
+goldTotalCount: 608, rightCount: 317, errorCount: 131
+recallScore: 0.5213815789473685, precisionScore: 0.7075892857142857, fScore: 0.600378787878788, errorScore: 0.21546052631578946
+num: 87
+goldTotalCount: 430, rightCount: 281, errorCount: 61
+recallScore: 0.6534883720930232, precisionScore: 0.8216374269005848, fScore: 0.727979274611399, errorScore: 0.14186046511627906
+num: 88
+goldTotalCount: 656, rightCount: 374, errorCount: 100
+recallScore: 0.5701219512195121, precisionScore: 0.7890295358649789, fScore: 0.6619469026548672, errorScore: 0.1524390243902439
+num: 89
+goldTotalCount: 397, rightCount: 211, errorCount: 76
+recallScore: 0.5314861460957179, precisionScore: 0.735191637630662, fScore: 0.6169590643274854, errorScore: 0.19143576826196473
+num: 90
+goldTotalCount: 414, rightCount: 249, errorCount: 77
+recallScore: 0.6014492753623188, precisionScore: 0.7638036809815951, fScore: 0.672972972972973, errorScore: 0.1859903381642512
+num: 91
+goldTotalCount: 938, rightCount: 545, errorCount: 152
+recallScore: 0.5810234541577826, precisionScore: 0.7819225251076041, fScore: 0.6666666666666667, errorScore: 0.16204690831556504
+num: 92
+goldTotalCount: 539, rightCount: 316, errorCount: 77
+recallScore: 0.5862708719851577, precisionScore: 0.8040712468193384, fScore: 0.6781115879828327, errorScore: 0.14285714285714285
+num: 93
+goldTotalCount: 599, rightCount: 343, errorCount: 127
+recallScore: 0.5726210350584308, precisionScore: 0.7297872340425532, fScore: 0.6417212347988774, errorScore: 0.21202003338898165
+num: 94
+goldTotalCount: 387, rightCount: 212, errorCount: 82
+recallScore: 0.5478036175710594, precisionScore: 0.7210884353741497, fScore: 0.6226138032305433, errorScore: 0.21188630490956073
+num: 95
+goldTotalCount: 632, rightCount: 364, errorCount: 118
+recallScore: 0.5759493670886076, precisionScore: 0.7551867219917012, fScore: 0.6535008976660682, errorScore: 0.18670886075949367
+num: 96
+goldTotalCount: 332, rightCount: 199, errorCount: 52
+recallScore: 0.5993975903614458, precisionScore: 0.7928286852589641, fScore: 0.6826758147512864, errorScore: 0.1566265060240964
+num: 97
+goldTotalCount: 859, rightCount: 517, errorCount: 153
+recallScore: 0.6018626309662398, precisionScore: 0.7716417910447761, fScore: 0.6762589928057554, errorScore: 0.1781140861466822
+num: 98
+goldTotalCount: 544, rightCount: 345, errorCount: 79
+recallScore: 0.6341911764705882, precisionScore: 0.8136792452830188, fScore: 0.7128099173553719, errorScore: 0.14522058823529413
+num: 99
+goldTotalCount: 609, rightCount: 365, errorCount: 123
+recallScore: 0.5993431855500821, precisionScore: 0.7479508196721312, fScore: 0.6654512306289883, errorScore: 0.2019704433497537
+num: 100
+goldTotalCount: 1293, rightCount: 793, errorCount: 198
+recallScore: 0.6133023975251354, precisionScore: 0.8002018163471241, fScore: 0.6943957968476356, errorScore: 0.1531322505800464
+num: 101
+goldTotalCount: 669, rightCount: 402, errorCount: 104
+recallScore: 0.600896860986547, precisionScore: 0.7944664031620553, fScore: 0.6842553191489361, errorScore: 0.1554559043348281
+num: 102
+goldTotalCount: 853, rightCount: 496, errorCount: 153
+recallScore: 0.5814771395076201, precisionScore: 0.7642526964560863, fScore: 0.6604527296937416, errorScore: 0.17936694021101993
+num: 103
+goldTotalCount: 1145, rightCount: 675, errorCount: 168
+recallScore: 0.5895196506550219, precisionScore: 0.800711743772242, fScore: 0.6790744466800805, errorScore: 0.1467248908296943
+num: 104
+goldTotalCount: 1284, rightCount: 723, errorCount: 213
+recallScore: 0.5630841121495327, precisionScore: 0.7724358974358975, fScore: 0.6513513513513514, errorScore: 0.1658878504672897
+num: 105
+goldTotalCount: 1358, rightCount: 728, errorCount: 210
+recallScore: 0.5360824742268041, precisionScore: 0.7761194029850746, fScore: 0.6341463414634148, errorScore: 0.15463917525773196
+num: 106
+goldTotalCount: 1398, rightCount: 855, errorCount: 195
+recallScore: 0.6115879828326181, precisionScore: 0.8142857142857143, fScore: 0.6985294117647058, errorScore: 0.13948497854077252
+num: 107
+goldTotalCount: 1071, rightCount: 584, errorCount: 176
+recallScore: 0.5452847805788982, precisionScore: 0.7684210526315789, fScore: 0.6379027853631893, errorScore: 0.16433239962651727
+num: 108
+goldTotalCount: 510, rightCount: 273, errorCount: 64
+recallScore: 0.5352941176470588, precisionScore: 0.8100890207715133, fScore: 0.6446280991735537, errorScore: 0.12549019607843137
+num: 109
+goldTotalCount: 557, rightCount: 294, errorCount: 103
+recallScore: 0.5278276481149012, precisionScore: 0.7405541561712846, fScore: 0.6163522012578616, errorScore: 0.18491921005385997
+num: 110
+goldTotalCount: 1248, rightCount: 739, errorCount: 189
+recallScore: 0.5921474358974359, precisionScore: 0.7963362068965517, fScore: 0.6792279411764706, errorScore: 0.15144230769230768
+num: 111
+goldTotalCount: 676, rightCount: 340, errorCount: 129
+recallScore: 0.5029585798816568, precisionScore: 0.7249466950959488, fScore: 0.5938864628820961, errorScore: 0.1908284023668639
+num: 112
+goldTotalCount: 1078, rightCount: 595, errorCount: 246
+recallScore: 0.551948051948052, precisionScore: 0.7074910820451843, fScore: 0.6201146430432517, errorScore: 0.22820037105751392
+num: 113
+goldTotalCount: 417, rightCount: 218, errorCount: 65
+recallScore: 0.5227817745803357, precisionScore: 0.7703180212014135, fScore: 0.6228571428571429, errorScore: 0.15587529976019185
+num: 114
+goldTotalCount: 534, rightCount: 291, errorCount: 76
+recallScore: 0.5449438202247191, precisionScore: 0.7929155313351499, fScore: 0.6459489456159823, errorScore: 0.14232209737827714
+num: 115
+goldTotalCount: 573, rightCount: 309, errorCount: 94
+recallScore: 0.5392670157068062, precisionScore: 0.7667493796526055, fScore: 0.6331967213114753, errorScore: 0.16404886561954624
+num: 116
+goldTotalCount: 528, rightCount: 275, errorCount: 90
+recallScore: 0.5208333333333334, precisionScore: 0.7534246575342466, fScore: 0.6159014557670773, errorScore: 0.17045454545454544
+num: 117
+goldTotalCount: 824, rightCount: 447, errorCount: 148
+recallScore: 0.5424757281553398, precisionScore: 0.7512605042016807, fScore: 0.6300211416490487, errorScore: 0.1796116504854369
+num: 118
+goldTotalCount: 910, rightCount: 527, errorCount: 142
+recallScore: 0.5791208791208792, precisionScore: 0.7877428998505231, fScore: 0.6675110829639013, errorScore: 0.15604395604395604
+num: 119
+goldTotalCount: 703, rightCount: 374, errorCount: 122
+recallScore: 0.5320056899004267, precisionScore: 0.7540322580645161, fScore: 0.6238532110091743, errorScore: 0.17354196301564723
+num: 120
+goldTotalCount: 723, rightCount: 378, errorCount: 115
+recallScore: 0.5228215767634855, precisionScore: 0.7667342799188641, fScore: 0.6217105263157896, errorScore: 0.1590594744121715
+num: 121
+goldTotalCount: 742, rightCount: 447, errorCount: 128
+recallScore: 0.6024258760107817, precisionScore: 0.7773913043478261, fScore: 0.6788154897494306, errorScore: 0.1725067385444744
+num: 122
+goldTotalCount: 1201, rightCount: 641, errorCount: 208
+recallScore: 0.533721898417985, precisionScore: 0.7550058892815077, fScore: 0.6253658536585366, errorScore: 0.17318900915903415
+num: 123
+goldTotalCount: 553, rightCount: 304, errorCount: 94
+recallScore: 0.5497287522603979, precisionScore: 0.7638190954773869, fScore: 0.6393270241850684, errorScore: 0.16998191681735986
+num: 124
+goldTotalCount: 581, rightCount: 325, errorCount: 110
+recallScore: 0.5593803786574871, precisionScore: 0.7471264367816092, fScore: 0.639763779527559, errorScore: 0.18932874354561102
+num: 125
+goldTotalCount: 512, rightCount: 316, errorCount: 71
+recallScore: 0.6171875, precisionScore: 0.8165374677002584, fScore: 0.7030033370411568, errorScore: 0.138671875
+num: 126
+goldTotalCount: 551, rightCount: 344, errorCount: 79
+recallScore: 0.6243194192377496, precisionScore: 0.8132387706855791, fScore: 0.7063655030800821, errorScore: 0.14337568058076225
+num: 127
+goldTotalCount: 354, rightCount: 184, errorCount: 77
+recallScore: 0.519774011299435, precisionScore: 0.7049808429118773, fScore: 0.5983739837398374, errorScore: 0.2175141242937853
+num: 128
+goldTotalCount: 449, rightCount: 245, errorCount: 88
+recallScore: 0.5456570155902004, precisionScore: 0.7357357357357357, fScore: 0.6265984654731458, errorScore: 0.19599109131403117
+num: 129
+goldTotalCount: 812, rightCount: 456, errorCount: 146
+recallScore: 0.5615763546798029, precisionScore: 0.7574750830564784, fScore: 0.6449787835926448, errorScore: 0.17980295566502463
+num: 130
+goldTotalCount: 302, rightCount: 150, errorCount: 58
+recallScore: 0.4966887417218543, precisionScore: 0.7211538461538461, fScore: 0.588235294117647, errorScore: 0.19205298013245034
+num: 131
+goldTotalCount: 410, rightCount: 231, errorCount: 86
+recallScore: 0.5634146341463414, precisionScore: 0.7287066246056783, fScore: 0.6354883081155434, errorScore: 0.2097560975609756
+num: 132
+goldTotalCount: 594, rightCount: 401, errorCount: 90
+recallScore: 0.6750841750841751, precisionScore: 0.8167006109979633, fScore: 0.7391705069124422, errorScore: 0.15151515151515152
+num: 133
+goldTotalCount: 346, rightCount: 195, errorCount: 60
+recallScore: 0.5635838150289018, precisionScore: 0.7647058823529411, fScore: 0.6489184692179701, errorScore: 0.17341040462427745
+num: 134
+goldTotalCount: 472, rightCount: 292, errorCount: 93
+recallScore: 0.6186440677966102, precisionScore: 0.7584415584415585, fScore: 0.6814469078179698, errorScore: 0.19703389830508475
+num: 135
+goldTotalCount: 653, rightCount: 362, errorCount: 128
+recallScore: 0.554364471669219, precisionScore: 0.7387755102040816, fScore: 0.6334208223972004, errorScore: 0.19601837672281777
+num: 136
+goldTotalCount: 497, rightCount: 296, errorCount: 86
+recallScore: 0.5955734406438632, precisionScore: 0.774869109947644, fScore: 0.6734926052332196, errorScore: 0.17303822937625754
+num: 137
+goldTotalCount: 491, rightCount: 309, errorCount: 87
+recallScore: 0.6293279022403259, precisionScore: 0.7803030303030303, fScore: 0.6967305524239007, errorScore: 0.17718940936863545
+num: 138
+goldTotalCount: 420, rightCount: 255, errorCount: 74
+recallScore: 0.6071428571428571, precisionScore: 0.7750759878419453, fScore: 0.6809078771695594, errorScore: 0.1761904761904762
+num: 139
+goldTotalCount: 643, rightCount: 370, errorCount: 121
+recallScore: 0.5754276827371695, precisionScore: 0.7535641547861507, fScore: 0.6525573192239857, errorScore: 0.18818040435458788
+num: 140
+goldTotalCount: 387, rightCount: 213, errorCount: 78
+recallScore: 0.5503875968992248, precisionScore: 0.7319587628865979, fScore: 0.6283185840707964, errorScore: 0.20155038759689922
+num: 141
+goldTotalCount: 881, rightCount: 443, errorCount: 200
+recallScore: 0.5028376844494892, precisionScore: 0.6889580093312597, fScore: 0.5813648293963255, errorScore: 0.22701475595913734
+num: 142
+goldTotalCount: 502, rightCount: 285, errorCount: 104
+recallScore: 0.5677290836653387, precisionScore: 0.7326478149100257, fScore: 0.6397306397306398, errorScore: 0.20717131474103587
+num: 143
+goldTotalCount: 760, rightCount: 444, errorCount: 116
+recallScore: 0.5842105263157895, precisionScore: 0.7928571428571428, fScore: 0.6727272727272726, errorScore: 0.15263157894736842
+num: 144
+goldTotalCount: 473, rightCount: 253, errorCount: 81
+recallScore: 0.5348837209302325, precisionScore: 0.7574850299401198, fScore: 0.6270136307311028, errorScore: 0.17124735729386892
+num: 145
+goldTotalCount: 397, rightCount: 219, errorCount: 81
+recallScore: 0.5516372795969773, precisionScore: 0.73, fScore: 0.6284074605451936, errorScore: 0.2040302267002519
+num: 146
+goldTotalCount: 160, rightCount: 74, errorCount: 26
+recallScore: 0.4625, precisionScore: 0.74, fScore: 0.5692307692307692, errorScore: 0.1625
+num: 147
+goldTotalCount: 75, rightCount: 23, errorCount: 18
+recallScore: 0.30666666666666664, precisionScore: 0.5609756097560976, fScore: 0.396551724137931, errorScore: 0.24
+num: 148
+goldTotalCount: 76, rightCount: 37, errorCount: 5
+recallScore: 0.4868421052631579, precisionScore: 0.8809523809523809, fScore: 0.6271186440677966, errorScore: 0.06578947368421052
+num: 149
+goldTotalCount: 77, rightCount: 28, errorCount: 12
+recallScore: 0.36363636363636365, precisionScore: 0.7, fScore: 0.47863247863247865, errorScore: 0.15584415584415584
+num: 150
+goldTotalCount: 85, rightCount: 28, errorCount: 16
+recallScore: 0.32941176470588235, precisionScore: 0.6363636363636364, fScore: 0.43410852713178294, errorScore: 0.18823529411764706
+num: 151
+goldTotalCount: 92, rightCount: 52, errorCount: 11
+recallScore: 0.5652173913043478, precisionScore: 0.8253968253968254, fScore: 0.6709677419354838, errorScore: 0.11956521739130435
+num: 152
+goldTotalCount: 677, rightCount: 349, errorCount: 136
+recallScore: 0.5155096011816839, precisionScore: 0.7195876288659794, fScore: 0.6006884681583476, errorScore: 0.20088626292466766
+num: 153
+goldTotalCount: 1100, rightCount: 640, errorCount: 175
+recallScore: 0.5818181818181818, precisionScore: 0.7852760736196319, fScore: 0.6684073107049607, errorScore: 0.1590909090909091
+num: 154
+goldTotalCount: 708, rightCount: 432, errorCount: 104
+recallScore: 0.6101694915254238, precisionScore: 0.8059701492537313, fScore: 0.6945337620578779, errorScore: 0.14689265536723164
+num: 155
+goldTotalCount: 735, rightCount: 426, errorCount: 150
+recallScore: 0.5795918367346938, precisionScore: 0.7395833333333334, fScore: 0.6498855835240274, errorScore: 0.20408163265306123
+num: 156
+goldTotalCount: 745, rightCount: 342, errorCount: 164
+recallScore: 0.4590604026845638, precisionScore: 0.6758893280632411, fScore: 0.5467625899280575, errorScore: 0.22013422818791947
+num: 157
+goldTotalCount: 546, rightCount: 261, errorCount: 109
+recallScore: 0.47802197802197804, precisionScore: 0.7054054054054054, fScore: 0.5698689956331878, errorScore: 0.19963369963369965
+num: 158
+goldTotalCount: 413, rightCount: 214, errorCount: 79
+recallScore: 0.5181598062953995, precisionScore: 0.7303754266211604, fScore: 0.6062322946175638, errorScore: 0.19128329297820823
+num: 159
+goldTotalCount: 821, rightCount: 437, errorCount: 179
+recallScore: 0.5322777101096224, precisionScore: 0.7094155844155844, fScore: 0.6082115518441197, errorScore: 0.21802679658952498
+num: 160
+goldTotalCount: 451, rightCount: 270, errorCount: 66
+recallScore: 0.5986696230598669, precisionScore: 0.8035714285714286, fScore: 0.6861499364675985, errorScore: 0.14634146341463414
+num: 161
+goldTotalCount: 589, rightCount: 350, errorCount: 92
+recallScore: 0.5942275042444821, precisionScore: 0.7918552036199095, fScore: 0.678952473326867, errorScore: 0.15619694397283532
+num: 162
+goldTotalCount: 444, rightCount: 241, errorCount: 73
+recallScore: 0.5427927927927928, precisionScore: 0.767515923566879, fScore: 0.6358839050131926, errorScore: 0.16441441441441443
+num: 163
+goldTotalCount: 629, rightCount: 346, errorCount: 111
+recallScore: 0.5500794912559619, precisionScore: 0.7571115973741794, fScore: 0.6372007366482504, errorScore: 0.17647058823529413
+num: 164
+goldTotalCount: 856, rightCount: 549, errorCount: 126
+recallScore: 0.6413551401869159, precisionScore: 0.8133333333333334, fScore: 0.7171783148269105, errorScore: 0.14719626168224298
+num: 165
+goldTotalCount: 967, rightCount: 568, errorCount: 156
+recallScore: 0.5873836608066184, precisionScore: 0.7845303867403315, fScore: 0.671791839148433, errorScore: 0.16132368148914167
+num: 166
+goldTotalCount: 604, rightCount: 362, errorCount: 103
+recallScore: 0.5993377483443708, precisionScore: 0.7784946236559139, fScore: 0.6772684752104771, errorScore: 0.17052980132450332
+num: 167
+goldTotalCount: 747, rightCount: 413, errorCount: 160
+recallScore: 0.5528781793842035, precisionScore: 0.7207678883071553, fScore: 0.6257575757575757, errorScore: 0.214190093708166
+num: 168
+goldTotalCount: 591, rightCount: 333, errorCount: 136
+recallScore: 0.5634517766497462, precisionScore: 0.7100213219616205, fScore: 0.6283018867924529, errorScore: 0.23011844331641285
+num: 169
+goldTotalCount: 545, rightCount: 251, errorCount: 127
+recallScore: 0.46055045871559636, precisionScore: 0.6640211640211641, fScore: 0.5438786565547129, errorScore: 0.23302752293577983
+num: 170
+goldTotalCount: 278, rightCount: 145, errorCount: 54
+recallScore: 0.5215827338129496, precisionScore: 0.7286432160804021, fScore: 0.6079664570230608, errorScore: 0.19424460431654678
+num: 171
+goldTotalCount: 297, rightCount: 179, errorCount: 42
+recallScore: 0.6026936026936027, precisionScore: 0.8099547511312217, fScore: 0.6911196911196912, errorScore: 0.1414141414141414
+num: 172
+goldTotalCount: 425, rightCount: 232, errorCount: 79
+recallScore: 0.5458823529411765, precisionScore: 0.7459807073954984, fScore: 0.6304347826086957, errorScore: 0.18588235294117647
+num: 173
+goldTotalCount: 354, rightCount: 206, errorCount: 71
+recallScore: 0.5819209039548022, precisionScore: 0.7436823104693141, fScore: 0.652931854199683, errorScore: 0.20056497175141244
+num: 174
+goldTotalCount: 314, rightCount: 164, errorCount: 61
+recallScore: 0.5222929936305732, precisionScore: 0.7288888888888889, fScore: 0.608534322820037, errorScore: 0.1942675159235669
+num: 175
+goldTotalCount: 565, rightCount: 341, errorCount: 89
+recallScore: 0.6035398230088496, precisionScore: 0.7930232558139535, fScore: 0.685427135678392, errorScore: 0.15752212389380532
+num: 176
+goldTotalCount: 673, rightCount: 382, errorCount: 117
+recallScore: 0.5676077265973254, precisionScore: 0.7655310621242485, fScore: 0.6518771331058021, errorScore: 0.1738484398216939
+num: 177
+goldTotalCount: 699, rightCount: 383, errorCount: 99
+recallScore: 0.547925608011445, precisionScore: 0.7946058091286307, fScore: 0.6486028789161729, errorScore: 0.14163090128755365
+num: 178
+goldTotalCount: 286, rightCount: 135, errorCount: 50
+recallScore: 0.47202797202797203, precisionScore: 0.7297297297297297, fScore: 0.5732484076433122, errorScore: 0.17482517482517482
+num: 179
+goldTotalCount: 357, rightCount: 198, errorCount: 45
+recallScore: 0.5546218487394958, precisionScore: 0.8148148148148148, fScore: 0.66, errorScore: 0.12605042016806722
+num: 180
+goldTotalCount: 725, rightCount: 424, errorCount: 107
+recallScore: 0.5848275862068966, precisionScore: 0.7984934086629002, fScore: 0.6751592356687899, errorScore: 0.14758620689655172
+num: 181
+goldTotalCount: 332, rightCount: 175, errorCount: 52
+recallScore: 0.5271084337349398, precisionScore: 0.7709251101321586, fScore: 0.6261180679785332, errorScore: 0.1566265060240964
+num: 182
+goldTotalCount: 485, rightCount: 275, errorCount: 83
+recallScore: 0.5670103092783505, precisionScore: 0.7681564245810056, fScore: 0.6524317912218269, errorScore: 0.1711340206185567
+num: 183
+goldTotalCount: 602, rightCount: 325, errorCount: 107
+recallScore: 0.5398671096345515, precisionScore: 0.7523148148148148, fScore: 0.6286266924564797, errorScore: 0.1777408637873754
+num: 184
+goldTotalCount: 319, rightCount: 156, errorCount: 83
+recallScore: 0.4890282131661442, precisionScore: 0.6527196652719666, fScore: 0.5591397849462366, errorScore: 0.2601880877742947
+num: 185
+goldTotalCount: 496, rightCount: 281, errorCount: 113
+recallScore: 0.5665322580645161, precisionScore: 0.7131979695431472, fScore: 0.6314606741573033, errorScore: 0.22782258064516128
+num: 186
+goldTotalCount: 457, rightCount: 273, errorCount: 96
+recallScore: 0.5973741794310722, precisionScore: 0.7398373983739838, fScore: 0.6610169491525424, errorScore: 0.2100656455142232
+num: 187
+goldTotalCount: 646, rightCount: 333, errorCount: 111
+recallScore: 0.5154798761609907, precisionScore: 0.75, fScore: 0.6110091743119266, errorScore: 0.17182662538699692
+num: 188
+goldTotalCount: 538, rightCount: 283, errorCount: 110
+recallScore: 0.5260223048327137, precisionScore: 0.7201017811704835, fScore: 0.6079484425349088, errorScore: 0.20446096654275092
+num: 189
+goldTotalCount: 538, rightCount: 279, errorCount: 110
+recallScore: 0.5185873605947955, precisionScore: 0.7172236503856041, fScore: 0.6019417475728154, errorScore: 0.20446096654275092
+num: 190
+goldTotalCount: 524, rightCount: 297, errorCount: 81
+recallScore: 0.566793893129771, precisionScore: 0.7857142857142857, fScore: 0.6585365853658537, errorScore: 0.15458015267175573
+num: 191
+goldTotalCount: 583, rightCount: 322, errorCount: 114
+recallScore: 0.5523156089193825, precisionScore: 0.7385321100917431, fScore: 0.6319921491658489, errorScore: 0.1955403087478559
+num: 192
+goldTotalCount: 563, rightCount: 287, errorCount: 113
+recallScore: 0.5097690941385435, precisionScore: 0.7175, fScore: 0.5960539979231568, errorScore: 0.20071047957371227
+num: 193
+goldTotalCount: 766, rightCount: 412, errorCount: 133
+recallScore: 0.5378590078328982, precisionScore: 0.7559633027522936, fScore: 0.6285278413424867, errorScore: 0.17362924281984335
